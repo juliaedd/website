@@ -1,7 +1,7 @@
 {
-  "hash": "b39713e8b7d089ae747343350bc1382d",
+  "hash": "7cec1a7b4fbf48efd175375a5d97877f",
   "result": {
-    "markdown": "---\ntitle: \"Julia Eddelbuettel\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Julia Eddelbuettel\"\n---\n\n\nWelcome to my personal website.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
