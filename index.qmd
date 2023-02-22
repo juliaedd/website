@@ -1,9 +1,16 @@
 ---
 title: "Julia Eddelbuettel"
+about: 
+  template: trestles
 ---
 
-Welcome to my personal website.
+Welcome to my personal website.![](Pictures/Headshot.png)
 
-```{r}
-1 + 1
+```{}
 ```
+
+### Education
+
+-   Cornell University, 2018-2021
+
+    -   B.S. Policy Analysis & Management
