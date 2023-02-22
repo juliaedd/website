@@ -1,17 +1,21 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
+  title: "Julia Eddelbuettel"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: PDFs/EddelbuettelJ_CV_Web_2023.02.22.pdf
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
