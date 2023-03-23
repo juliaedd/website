@@ -4,9 +4,9 @@ title: "Research"
 
 ### Peer-Reviewed Publications
 
-Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. 2022. Employment in Office Based and Intensive Behavioral Health Settings in the U.S., 2016-2021. JAMA. Published online September 19, 2022. [doi:10.1001/jama.2022.17613](https://jamanetwork.com/journals/jama/fullarticle/2796660)
+Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. 2022. Employment in Office Based and Intensive Behavioral Health Settings in the U.S., 2016-2021. JAMA. Published online September 19, 2022. [doi:10.1001/jama.2022.17613](https://doi.org/10.1001/jama.2022.17613)
 
-Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann, C., & Mathios, A. 2023. Consumer Responses to Firms' Voluntary Disclosure of Information: Evidence from Calorie Labeling by Starbucks. *American Journal of Health Economics*, 9(1), 22-46. [Available here](https://www.journals.uchicago.edu/doi/full/10.1086/722269?casa_token=KbiK7K0tuTIAAAAA:FQVXskL7Pd92MQf-Rmwa7sTSTCG2AACbLQhFGco0D_RRRJh9S03tzlz1d4Y-GlywOChWxQp1hqU). 
+Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann, C., & Mathios, A. 2023. Consumer Responses to Firms' Voluntary Disclosure of Information: Evidence from Calorie Labeling by Starbucks. *American Journal of Health Economics*, 9(1), 22-46. [doi:10.1086/722269](https://doi.org/10.1086/722269)
 
 ### Under Review
 
