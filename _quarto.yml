@@ -10,7 +10,7 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: PDFs/EddelbuettelJ CV Web 2023.04.09.pdf
+      - href: PDFs/EddelbuettelJ_CV_Web_2023.04.09.pdf
         text: CV
 
 format:
