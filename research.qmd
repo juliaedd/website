@@ -10,9 +10,9 @@ Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann
 
 Kennedy-Hendricks, A., [Eddelbuettel, J.C.P.]{.underline}, Bicket, M., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., Eisenberg, M.D. 2023. Quasi-Experimental Study of the Impact of High Deductible Health Plans on Treatment Use and Out-of-Pocket Spending Among US Adults with Chronic Pain Diagnoses. *American Journal of Preventive Medicine*, In Press. [doi:10.1016/j.amepre.2023.05.008](https://doi.org/10.1016/j.amepre.2023.05.008)
 
-Hollander, M.A.G., Kennedy-Hendricks, A., Schilling, C., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., [Eddelbuettel, J.C.P.]{.underline}, Barry, C.L., Eisenberg, M.D. Do High Deductible Health Plans Incentivize Postponing Substance Use Disorder Treatment? 2023. *Medical Care Research & Review*, In Press. 
+Hollander, M.A.G., Kennedy-Hendricks, A., Schilling, C., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., [Eddelbuettel, J.C.P.]{.underline}, Barry, C.L., Eisenberg, M.D. Do High Deductible Health Plans Incentivize Postponing Substance Use Disorder Treatment? 2023. *Medical Care Research & Review*, In Press.
 
-[Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. 2023. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, In Press. 
+[Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. 2023. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, In Press.
 
 ### Under Review
 
@@ -20,7 +20,7 @@ Hollander, M.A.G., Kennedy-Hendricks, A., Schilling, C., Meiselbach, M.K., Stuar
 
 Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Revise & Resubmit.*
 
-###Works in Progress
+### Works in Progress
 
 Avery R., Cawley, J., Cunningham, S., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., & Mathios, A. 2022. The Role of Repugnance in Markets: The Disclosure of Information about Jared Fogle and its Impact on Subway Patronage.
 
