@@ -1,29 +1,31 @@
 ---
 title: "Julia Eddelbuettel"
-image: Pictures/IMG_5904.JPG
+image: Pictures/Headshot.png
 about: 
   template: trestles
-  image-shape: rounded
-  image-width: 19em
+  image-shape: round
+  image-width: 16em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/julia-eddelbuettel-b1849618b
     - text: Twitter
       href: https://twitter.com/julia_edd
     - text: Email
-      href: mailto:jcpe@jhu.edu
-  
+      href: mailto:julia_eddelbuettel@g.harvard.edu
 ---
+
 ### About Me
 
-I am a Senior Statistical Programmer Analyst in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health.
+I am a first year PhD student in Health Policy with a concentration in Methods for Policy Research at Harvard University. My research interests are at the intersection of social policy, population health, and health services research with a focus on mental health and maternal & infant health.
 
-I am interested in health policy research related to mental health, substance use, and maternal & infant health.
+Previously, I was a Pre-Doctoral Statistical Programmer Analyst in the Dept. of Health Policy & Management and Center for Mental Health & Addiction Policy at the Johns Hopkins Bloomberg School of Public Health.
 
 ### Education
 
-Cornell University \| Aug 2018-Dec 2021
+**Harvard University, PhD Program in Health Policy**
 
--   B.S. Policy Analysis & Management
+PhD in Health Policy \| Expected 2028
 
--   Minor in Demography 
+**Cornell University, Brooks School of Public Policy**
+
+BS in Policy Analysis & Management \| 2018-2021
