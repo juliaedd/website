@@ -4,7 +4,9 @@ title: "Research"
 
 ### Peer-Reviewed Publications
 
-[Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unintended Pregnancies Among Live Births in the Pre-*Dobbs* Era. *Demography,* In Press*.*
+[Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unintended Pregnancies Among Live Births in the Pre-*Dobbs* Era. *Demography,* In Press.
+
+Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Journal of Substance Use & Addiction Treatment,* In Press.
 
 [Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. 2023. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, 61(9):601-604. [doi:10.1097/MLR.0000000000001886](10.1097/MLR.0000000000001886)
 
@@ -19,8 +21,6 @@ Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. 2022. Emplo
 ### Under Review
 
 Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Under Review.*
-
-Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Revise & Resubmit.*
 
 ### Works in Progress
 
