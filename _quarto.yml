@@ -10,7 +10,7 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: PDFs/EddelbuettelJ CV Web.pdf
+      - href: cv.qmd
         text: CV
 
 format:

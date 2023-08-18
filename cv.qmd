@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Please find my CV [here](/Users/julia/git/website/PDFs/EddelbuettelJ_CV_Web.pdf).
+Please find my CV [here](/Users/julia/git/website/PDFs/EddelbuettelJ CV Web.pdf).
