@@ -6,7 +6,7 @@ title: "Research"
 
 [Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unintended Pregnancies Among Live Births in the Pre-*Dobbs* Era. *Demography,* In Press.
 
-Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Journal of Substance Use & Addiction Treatment,* In Press.
+Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. 2023. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Journal of Substance Use & Addiction Treatment,* 154: 209152. [doi:10.1016/j.josat.2023.209152.](https://www.sciencedirect.com/science/article/pii/S2949875923002035)
 
 [Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. 2023. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, 61(9):601-604. [doi:10.1097/MLR.0000000000001886](10.1097/MLR.0000000000001886)
 
@@ -22,10 +22,12 @@ Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. 2022. Emplo
 
 Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Under Review.*
 
+[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Under Review.*
+
+Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of the COVID-19 Pandemic on Job Flows Into and Out of Healthcare. *Under Review.*
+
 ### Works in Progress
 
 Avery R., Cawley, J., Cunningham, S., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., & Mathios, A. 2022. The Role of Repugnance in Markets: The Disclosure of Information about Jared Fogle and its Impact on Subway Patronage.
 
-[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease.
 
-Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of the COVID-19 Pandemic on Job Flows Into and Out of Healthcare.
