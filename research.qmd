@@ -4,7 +4,7 @@ title: "Research"
 
 ### Peer-Reviewed Publications
 
-[Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unintended Pregnancies Among Live Births in the Pre-*Dobbs* Era. *Demography,* In Press.
+[Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unintended Pregnancies Among Live Births in the Pre-*Dobbs* Era. *Demography,* 10952575. [doi:10.1215/00703370-10952575.](https://doi.org/10.1215/00703370-10952575)
 
 Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. 2023. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Journal of Substance Use & Addiction Treatment,* 154: 209152. [doi:10.1016/j.josat.2023.209152.](https://www.sciencedirect.com/science/article/pii/S2949875923002035)
 
