@@ -20,7 +20,7 @@ Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. 2022. Emplo
 
 ### Under Review
 
-Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Under Review.*
+Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Revise & Resubmit.*
 
 [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Under Review.*
 
@@ -28,6 +28,6 @@ Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of th
 
 ### Works in Progress
 
-Avery R., Cawley, J., Cunningham, S., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., & Mathios, A. 2022. The Role of Repugnance in Markets: The Disclosure of Information about Jared Fogle and its Impact on Subway Patronage.
+Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Cunningham, S., Eisenberg, M.D., Mathios, A., & Avery, R. The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway. (NBER Working Paper No. [31782](https://www.nber.org/papers/w31782))
 
 
