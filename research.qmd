@@ -8,9 +8,9 @@ title: "Research"
 
 Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Serv Res*. 2024; 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
 
-### 2023
-
 Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of the COVID-19 Pandemic on Job Flows Into and Out of Healthcare. *JAMA Health Forum*. 2024; 5(1): e234964. [doi:10.1001/jamahealthforum.2023.4964](https://doi:10.1001/jamahealthforum.2023.4964)
+
+### 2023
 
 [Eddelbuettel, J.C.P.]{.underline}, & Sassler, S. State-level Policy Hostility Toward Abortion & Unplanned Births in the Pre-*Dobbs* Era. *Demography,* 2023; 60(5): 1469-1491. [doi:10.1215/00703370-10952575.](https://doi.org/10.1215/00703370-10952575)
 
