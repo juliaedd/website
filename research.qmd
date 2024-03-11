@@ -5,8 +5,9 @@ title: "Research"
 ## Peer-Reviewed Publications
 
 ### 2024
+[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Journal of General Internal Medicine*. 2024. [doi:10.1007/s11606-024-08700-2](https://rdcu.be/dAPR6)
 
-Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Serv Res*. 2024; 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
+Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Services Research*. 2024; 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
 
 Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of the COVID-19 Pandemic on Job Flows Into and Out of Healthcare. *JAMA Health Forum*. 2024; 5(1): e234964. [doi:10.1001/jamahealthforum.2023.4964](https://doi:10.1001/jamahealthforum.2023.4964)
 
@@ -29,10 +30,6 @@ Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann
 Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. Employment in Office Based and Intensive Behavioral Health Settings in the U.S., 2016-2021. *JAMA*. 2022; 328(16): 1642-1643. [doi:10.1001/jama.2022.17613](https://doi.org/10.1001/jama.2022.17613)
 
 ## Under Review
-
-[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Revise & Resubmit.*
-
-## Works in Progress
 
 Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Cunningham, S., Eisenberg, M.D., Mathios, A., & Avery, R. The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway. (NBER Working Paper No. [31782](https://www.nber.org/papers/w31782))
 
