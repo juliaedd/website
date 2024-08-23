@@ -6,7 +6,7 @@ title: "Research"
 
 ### 2024
 
-Thornburg, B., McGinty, E. E., [Eddelbuettel, J.]{.underline}, Kennedy-Hendricks, A., Braun, R. T., & Eisenberg, M. D. Acquisitions of Behavioral Health Treatment Facilities from 2010-2021. *Health Affairs Scholar,* 2024; 2(7): qxae080. [doi:10.1093/haschl/qxae080](https://academic.oup.com/healthaffairsscholar/article/2/7/qxae080/7687299)
+Thornburg, B., McGinty, E. E., [Eddelbuettel, J.]{.underline}, Kennedy-Hendricks, A., Braun, R. T., & Eisenberg, M. D. Acquisitions of Behavioral Health Treatment Facilities from 2010-2021. *Health Affairs Scholar,* 2024; 2(7): qxae080. [doi:10.1093/haschl/qxae080](https://doi.org/10.1093/haschl/qxae080)
 
 Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Services Research*. 2024; 59(2): 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
 
