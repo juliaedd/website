@@ -5,9 +5,12 @@ title: "Research"
 ## Peer-Reviewed Publications
 
 ### 2024
-[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Journal of General Internal Medicine*. 2024. [doi:10.1007/s11606-024-08700-2](https://rdcu.be/dAPR6)
 
-Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Services Research*. 2024; 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
+Thornburg, B., McGinty, E. E., [Eddelbuettel, J.]{.underline}, Kennedy-Hendricks, A., Braun, R. T., & Eisenberg, M. D. Acquisitions of Behavioral Health Treatment Facilities from 2010-2021. *Health Affairs Scholar,* 2024; 2(7): qxae080. [doi:10.1093/haschl/qxae080](https://academic.oup.com/healthaffairsscholar/article/2/7/qxae080/7687299)
+
+Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Services Research*. 2024; 59(2): 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
+
+[Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., & Eisenberg, M.D. Changes in Healthcare Spending Attributable to High Deductible Health Plan Offer Among Enrollees with Co-Morbid Substance Use Disorder and Cardiovascular Disease. *Journal of General Internal Medicine*. 2024; 39: 1993-2000. [doi:10.1007/s11606-024-08700-2](https://rdcu.be/dAPR6)
 
 Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of the COVID-19 Pandemic on Job Flows Into and Out of Healthcare. *JAMA Health Forum*. 2024; 5(1): e234964. [doi:10.1001/jamahealthforum.2023.4964](https://doi:10.1001/jamahealthforum.2023.4964)
 
@@ -17,13 +20,13 @@ Shen, K., [Eddelbuettel, J.C.P.]{.underline}, & Eisenberg, M.D. The Impact of th
 
 Meiselbach, M.K., Huskamp, H.A., [Eddelbuettel, J.C.P.]{.underline}, Kennedy-Hendricks, A., Hollander, M.A.G., Schilling, C., Busch, A.B., Stuart, E.A., Barry, C.L., Eisenberg, M.D. Choice of High-Deductible Health Plans Among Enrollees with a Substance Use Disorder. *Journal of Substance Use & Addiction Treatment,* 2023; 154: 209152. [doi:10.1016/j.josat.2023.209152.](https://www.sciencedirect.com/science/article/pii/S2949875923002035)
 
-[Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, 2023; 61(9):601-604. [doi:10.1097/MLR.0000000000001886](10.1097/MLR.0000000000001886)
+[Eddelbuettel, J.C.P.]{.underline}, Barry, C. L., Kennedy-Hendricks, A., Busch, A.B., Hollander, A. G., Huskamp, H.A., Meiselbach, M.K., Schilling, C., Stuart, E.A., & Eisenberg, M.D. High-Deductible Health Plans and Non-Fatal Opioid Overdose. *Medical Care*, 2023; 61(9): 601-604. [doi:10.1097/MLR.0000000000001886](10.1097/MLR.0000000000001886)
 
 Hollander, M.A.G., Kennedy-Hendricks, A., Schilling, C., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., [Eddelbuettel, J.C.P.]{.underline}, Barry, C.L., Eisenberg, M.D. Do High Deductible Health Plans Incentivize Postponing Substance Use Disorder Treatment? *Medical Care Research & Review*. 2023; 80(5): 530-539.  [doi:10.1177/10775587231180667](https://doi.org/10.1177/10775587231180667)
 
 Kennedy-Hendricks, A., [Eddelbuettel, J.C.P.]{.underline}, Bicket, M., Meiselbach, M.K., Stuart, E.A., Huskamp, H.A., Busch, A.B., Hollander, M.A.G., Barry, C.L., Eisenberg, M.D. Quasi-Experimental Study of the Impact of High Deductible Health Plans on Treatment Use and Out-of-Pocket Spending Among US Adults with Chronic Pain Diagnoses. *American Journal of Preventive Medicine*. 2023; 65(5): 800-808 [doi:10.1016/j.amepre.2023.05.008](https://doi.org/10.1016/j.amepre.2023.05.008)
 
-Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann, C., & Mathios, A. Consumer Responses to Firms' Voluntary Disclosure of Information: Evidence from Calorie Labeling by Starbucks. *American Journal of Health Economics*. 2023; 9(1), 22-46. [doi:10.1086/722269](https://www.journals.uchicago.edu/doi/full/10.1086/722269?casa_token=KbiK7K0tuTIAAAAA:FQVXskL7Pd92MQf-Rmwa7sTSTCG2AACbLQhFGco0D_RRRJh9S03tzlz1d4Y-GlywOChWxQp1hqU)
+Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann, C., & Mathios, A. Consumer Responses to Firms' Voluntary Disclosure of Information: Evidence from Calorie Labeling by Starbucks. *American Journal of Health Economics*. 2023; 9(1): 22-46. [doi:10.1086/722269](https://www.journals.uchicago.edu/doi/full/10.1086/722269?casa_token=KbiK7K0tuTIAAAAA:FQVXskL7Pd92MQf-Rmwa7sTSTCG2AACbLQhFGco0D_RRRJh9S03tzlz1d4Y-GlywOChWxQp1hqU)
 
 ### 2022
 
