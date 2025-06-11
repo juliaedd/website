@@ -4,9 +4,13 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 
+### 2025
+
+Cawley, J., [Eddelbuettel, J.]{.underline}, Cunningham, S., Eisenberg, M.D., Mathios, A.D., & Avery, R.J. The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway. *Journal of Economic Behavior and Organization.* 2025; 229: 106848. [doi:10.1016/j.jebo.2024.106848](https://doi.org/10.1016/j.jebo.2024.106848)
+
 ### 2024
 
-Thornburg, B., McGinty, E. E., [Eddelbuettel, J.]{.underline}, Kennedy-Hendricks, A., Braun, R. T., & Eisenberg, M. D. Acquisitions of Behavioral Health Treatment Facilities from 2010-2021. *Health Affairs Scholar,* 2024; 2(7): qxae080. [doi:10.1093/haschl/qxae080](https://doi.org/10.1093/haschl/qxae080)
+Thornburg, B., McGinty, E. E., [Eddelbuettel, J.]{.underline}, Kennedy-Hendricks, A., Braun, R. T., & Eisenberg, M. D. Acquisitions of Behavioral Health Treatment Facilities from 2010-2021. *Health Affairs Scholar.* 2024; 2(7): qxae080. [doi:10.1093/haschl/qxae080](https://doi.org/10.1093/haschl/qxae080)
 
 Cliff, B.Q., [Eddelbuettel, J.C.P.]{.underline}, Meiselbach, M.K., & Eisenberg, M.D. Deductible Imputation in Administrative Medical Claims Datasets. *Health Services Research*. 2024; 59(2): 1-7. [doi:10.1111/1475-6773.14278](https://doi:10.1111/1475-6773.14278)
 
@@ -31,9 +35,3 @@ Avery, R., Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Eisenberg, M.D., Mann
 ### 2022
 
 Eisenberg, M.D., [Eddelbuettel, J.C.P.]{.underline}, & McGinty, E.E. Employment in Office Based and Intensive Behavioral Health Settings in the U.S., 2016-2021. *JAMA*. 2022; 328(16): 1642-1643. [doi:10.1001/jama.2022.17613](https://doi.org/10.1001/jama.2022.17613)
-
-## Under Review
-
-Cawley, J., [Eddelbuettel, J.C.P.]{.underline}, Cunningham, S., Eisenberg, M.D., Mathios, A., & Avery, R. The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway. (NBER Working Paper No. [31782](https://www.nber.org/papers/w31782))
-
-
