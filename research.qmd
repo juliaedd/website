@@ -6,6 +6,8 @@ title: "Research"
 
 #### 2025
 
+[**Eddelbuettel, J.C.P.**]{.bold}, Daw, J.R., Galbraith, A.G., Gordon, S.H., Kaimal, A., & Garabedian, L.F. New York’s Basic Health Program Increased Subsidized Insurance Coverage From Preconception To The Postpartum Period. *Health Affairs.* 2025; 44(12): 1-8. [doi:10.1377/hlthaff.2025.00773](https://doi.org/10.1377/hlthaff.2025.00773)
+
 Cawley, J., [**Eddelbuettel, J.**]{.bold}, Cunningham, S., Eisenberg, M.D., Mathios, A.D., & Avery, R.J. The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway. *Journal of Economic Behavior and Organization.* 2025; 229: 106848. [doi:10.1016/j.jebo.2024.106848](https://doi.org/10.1016/j.jebo.2024.106848)
 
 #### 2024
