@@ -4,6 +4,10 @@ title: "Research"
 
 ### Peer-Reviewed Publications
 
+#### 2026
+
+[**Eddelbuettel, J.C.P.**]{.bold}, Ray A., Liang P., James, K.E., Ganguli, I., Clapp, M.A., & Cohen, J.L. Facilitated Transitions to Postpartum Primary Care and Mental Health Care Services: Secondary Analysis of a Randomized Clinical Trial. *JAMA Network Open.* 2026;9(8):e2630415. [doi:10.1001/jamanetworkopen.2026.30415](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2853265)
+
 #### 2025
 
 [**Eddelbuettel, J.C.P.**]{.bold}, Daw, J.R., Galbraith, A.G., Gordon, S.H., Kaimal, A., & Garabedian, L.F. New York’s Basic Health Program Increased Subsidized Insurance Coverage From Preconception To The Postpartum Period. *Health Affairs.* 2025; 44(12): 1497-1504. [doi:10.1377/hlthaff.2025.00773](https://doi.org/10.1377/hlthaff.2025.00773)
